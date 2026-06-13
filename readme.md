@@ -1,0 +1,1 @@
+The Library AI Agent is a smart and efficient solution that simplifies access to library resources. It helps users find information quickly, improves library services, and enhances the overall learning experience.
